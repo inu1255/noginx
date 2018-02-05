@@ -10,7 +10,7 @@
 ## Demo
 
 ``` javascript
-const noginx = require("noginx");
+const noginx = require("express-noginx");
 const app = noginx.express();
 
 app.use(function(req, res, next) {

@@ -1,5 +1,5 @@
 {
-  "name": "noginx",
+  "name": "express-noginx",
   "version": "1.0.0",
   "description": "node proxy",
   "main": "index.js",
