@@ -13,5 +13,21 @@
     "node-fetch": "^1.7.3",
     "node-forge": "^0.7.1",
     "tls": "0.0.1"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inu1255/noginx.git"
+  },
+  "keywords": [
+    "proxy",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/inu1255/noginx/issues"
+  },
+  "homepage": "https://github.com/inu1255/noginx#readme"
 }

@@ -26,6 +26,9 @@ app.use(function(req, res, next) {
 app.listen(9999);
 ```
 
+add the cert `cert/ca.crt` to rootCertificate and trust it
+![](./example/s3.jpg)
+
 proxy setting (such as `SwitchyOmega`)
 ![](./example/s2.png)
 
