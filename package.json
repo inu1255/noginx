@@ -1,0 +1,17 @@
+{
+  "name": "noginx",
+  "version": "1.0.0",
+  "description": "node proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inu1255",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-fetch": "^1.7.3",
+    "node-forge": "^0.7.1",
+    "tls": "0.0.1"
+  }
+}
